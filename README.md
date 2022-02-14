@@ -10,13 +10,9 @@ With these points in mind, in this Challenge you’ll set yourself up for future
 
 Let’s look at what a user story written from the perspective of a hiring manager might look like. As you might remember, we follow the AS AN / I WANT / SO THAT format.
 
-## User Story
+## Purpose
 
-```
-AS AN employer
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
-```
+Create a web application from the scratch. The portfolio enables the potential employer get to know me better!
 
 ## Acceptance Criteria
 
@@ -40,13 +36,6 @@ The following animation shows the web application's appearance and functionality
 
 ![portfolio demo](./Assets/02-advanced-css-homework-demo.gif)
 
-## Review
+# Link
 
-You are required to submit BOTH of the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
-
-- - -
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+![portfolio demo](https://wangheer2010.github.io/MyPortfolio/)
