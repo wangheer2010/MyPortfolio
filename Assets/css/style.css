@@ -63,7 +63,7 @@ section {
 }
 
 /*apply style to hero image*/
-.hero{
+.hero {
     height: 400px;
     background-image: url("../images/Spongebob9.jpeg");
     background-size: cover;
@@ -94,7 +94,7 @@ section {
 
 
 /* about section style*/
-.about{
+.about {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -179,6 +179,7 @@ section {
     opacity:1;
     filter:alpha(opacity=100); /* For IE8 and earlier */
     box-shadow: 0 0 0px #000000;
+    transform: scale(1.05);
 }
 figcaption {
     position: absolute;
